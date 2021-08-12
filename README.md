@@ -1,9 +1,9 @@
 # Camunda REST API client for golang
-[![Build Status](https://travis-ci.org/citilinkru/camunda-client-go.svg?branch=master)](https://travis-ci.org/citilinkru/camunda-client-go)&nbsp;[![GoDoc](https://godoc.org/github.com/citilinkru/camunda-client-go?status.svg)](https://godoc.org/github.com/citilinkru/camunda-client-go)
+[![Build Status](https://travis-ci.org/SasSwart/camunda-client-go.svg?branch=master)](https://travis-ci.org/SasSwart/camunda-client-go)&nbsp;[![GoDoc](https://godoc.org/github.com/SasSwart/camunda-client-go?status.svg)](https://godoc.org/github.com/SasSwart/camunda-client-go)
 
 Installation
 -----------
-	go get github.com/citilinkru/camunda-client-go/v2
+	go get github.com/SasSwart/camunda-client-go/v2
 	
 Usage
 -----------
